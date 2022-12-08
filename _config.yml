@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: aterenin/minima-reboot
 title: apnea
 author: juan manuel daza
 description: un blog de poemas
